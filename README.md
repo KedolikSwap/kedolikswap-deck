@@ -31,14 +31,14 @@
 ## 📁 Repository Structure
 
 ```text
-├── 📁 KedolikSwap-Deck
+├── 📁 KedolikSwap-Deck/
 │   └── 📄 KedolikSwap_Strategic_Overview.pdf
 │
-├── 📁 KedolikSwap-BrandKit
-│   ├── 📁 Logos
-│   ├── 📁 Brand_Kit
-│   ├── 📁 Graphics
-│   └── 📁 Media
+├── 📁 KedolikSwap-BrandKit/
+│   ├── 📁 Logos/
+│   ├── 📁 Brand_Kit/
+│   ├── 📁 Graphics/
+│   └── 📁 Media/
 │
 └── 📄 README.md
 ```
