@@ -38,8 +38,8 @@
 │   ├── 📁 Logos/
 │   ├── 📁 Brand_Kit/
 │   ├── 📁 Graphics/
-│   └── 📁 Media/
-│
+│   ├── 📁 Media/
+│   └── 📄 KedolikSwap_Brand_Guidelines.pdf
 └── 📄 README.md
 ```
 
