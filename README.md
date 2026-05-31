@@ -40,6 +40,7 @@
 │   ├── 📁 Graphics/
 │   ├── 📁 Media/
 │   └── 📄 KedolikSwap_Brand_Guidelines.pdf
+│
 └── 📄 README.md
 ```
 
