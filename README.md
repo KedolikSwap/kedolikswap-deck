@@ -79,5 +79,5 @@ For partnership, investment, or collaboration inquiries:
 ## ⚠️ Disclaimer
 *This repository is intended for informational and presentation purposes only. The materials contained herein do not constitute financial, legal, or investment advice. Users should conduct their own research before making any financial decisions.*
 
-<p align="center">© 2026 KedolikSwap. All Rights Reserved.</p>
+<p align="center">© 2025 - 2026 Kedolik Swap. All Rights Reserved.</p>
 
