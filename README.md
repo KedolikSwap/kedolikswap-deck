@@ -3,7 +3,7 @@
  <h1 align="center">KedolikSwap Deck 🚀 </h1></p>
 
  <p align="center">
-    <img src="https://img.shields.io/github/last-commit/KedolikSwap/KEDOL-Token?style=for-the-badge" />
+    <img src="https://img.shields.io/github/last-commit/KedolikSwap/KEDOL-Token?style=for-the-badge&logo=github" />
 <img src="https://img.shields.io/github/issues/KedolikSwap/KEDOL-Token?style=for-the-badge" />
 <img src="https://img.shields.io/github/forks/KedolikSwap/KEDOL-Token?style=for-the-badge" />
 <img src="https://img.shields.io/github/watchers/KedolikSwap/KEDOL-Token?style=for-the-badge" />
