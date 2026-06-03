@@ -2,6 +2,20 @@
  <img alt="KedolikSwap" src="https://i.ibb.co/MDpWH3f1/kedolik-GH.jpg"width="2048" border="0">
  <h1 align="center">KedolikSwap Deck 🚀 </h1></p>
 
+ <p align="center">
+    <img src="https://img.shields.io/github/last-commit/KedolikSwap/KEDOL-Token?style=for-the-badge" />
+<img src="https://img.shields.io/github/issues/KedolikSwap/KEDOL-Token?style=for-the-badge" />
+<img src="https://img.shields.io/github/forks/KedolikSwap/KEDOL-Token?style=for-the-badge" />
+<img src="https://img.shields.io/github/watchers/KedolikSwap/KEDOL-Token?style=for-the-badge" />
+<img src="https://img.shields.io/github/downloads/KedolikSwap/KEDOL-Token/total?style=for-the-badge" alt="KedolikSwap downloads" />
+<img src="https://img.shields.io/badge/Dex-KedolikSwap-success?style=for-the-badge" />
+<img src="https://img.shields.io/github/sponsors/KedolikSwap?style=for-the-badge" alt="sponsors"/>
+<img src="https://img.shields.io/github/stars/KedolikSwap/KEDOL-Token?style=for-the-badge" alt="KedolikSwap stars"/>
+<img src="https://img.shields.io/github/followers/KedolikSwap?style=for-the-badge&logo=github" />
+<img src="https://img.shields.io/badge/Blockchain-Solana-9945FF?style=for-the-badge&logo=solana&logoColor=white" />
+<img src="https://img.shields.io/badge/Status-Active-brightgreen?style=for-the-badge" />
+</p>
+
 <h2> 🌟 Overview</h2>
 <p>This repository contains the official KedolikSwap Pitch Deck and supporting presentation materials.</p>
 <p>The deck provides an overview of the KedolikSwap ecosystem, including:</p>
