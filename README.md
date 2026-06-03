@@ -46,7 +46,8 @@
 
 ```text
 ├── 📁 KedolikSwap-Deck/
-│   └── 📄 KedolikSwap_Strategic_Overview.pdf
+│   ├── 📄 KedolikSwap_Strategic_Overview.pdf
+│   └── 📄 KedolikSwap_Partner_Program_Overview.pdf
 │
 ├── 📁 KedolikSwap-BrandKit/
 │   ├── 📁 Logos/
