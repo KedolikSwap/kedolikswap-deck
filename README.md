@@ -86,10 +86,10 @@ Focused on delivering secure, reliable, and transparent decentralized financial 
 ## 📞 Contact
 For partnership, investment, or collaboration inquiries:
 
--	[**Website**](https://kedolikswap.com)
--	[**Email**](support@kedolikswap.com)
--	[**X (Twitter)**](https://x.com/kedolik_swap)
--	[**Telegram**](https://t.me/kedolik_swap)
+-	**Website:** https://kedolikswap.com
+-	**Email:** support@kedolikswap.com
+-	**X (Twitter):** https://x.com/kedolik_swap
+-	**Telegram:** https://t.me/kedolik_swap
 
 ## ⚠️ Disclaimer
 *This repository is intended for informational and presentation purposes only. The materials contained herein do not constitute financial, legal, or investment advice. Users should conduct their own research before making any financial decisions.*
